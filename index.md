@@ -12,6 +12,7 @@
 4. 16:00 - 17:30 	Session 3
 5. 17:30 - 18:00 	Discussion
 
+#### Organized by Jin-Ho Yoon (GIST) and Hyungjun Kim (U-Tokyo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzA2NDE0Ml19
+eyJoaXN0b3J5IjpbLTg5NzExNzI5XX0=
 -->
