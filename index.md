@@ -6,6 +6,7 @@
 ## Sessions 
 1. 11:00 - 12:30	Session 1
 	> **Masahito Omori** "Photovoltaic ..."
+
 	> **Ryotaro Doi** "Model Evaluation ..."
 2. 12:30 - 14:00 	Lunch
 3. 14:00 - 15:30 	Session 2
