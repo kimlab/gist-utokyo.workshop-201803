@@ -4,7 +4,7 @@
 2018-03-14 @ GIST Seoul Office
 
 ## Sessions 
-** Session 1 ** 11:00 - 12:30 **
+** Session 1 : 11:00 - 12:30 **
 * Masahito Omori __Photovoltaic ...__
 
 2. 12:30 - 14:00 	Lunch
