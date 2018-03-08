@@ -9,10 +9,11 @@
 
   > Masahito Omori      _Impacts of Renewable Energy Development on Global Climate Variability_<br />
   > Ryotaro Doi 	_Evaluation of Multi-model Skills on Global Temperature and Precipitation using Climate Simulations_
-2. 12:30 - 14:00 	Lunch
-3. 14:00 - 15:30 	Session 2
-4. 16:00 - 17:30 	Session 3
-5. 17:30 - 18:00 	Discussion
+
+**_________** /12:30 - 14:00/	Luncheon Exchange
+**Session 2** /14:00 - 15:30/
+**Session 3** /16:00 - 17:30/	Session 3
+**Session 4** /17:30 - 18:00/	Discussion
 
 #### Organized by Jin-Ho Yoon (GIST) and Hyungjun Kim (U-Tokyo)
 <!--stackedit_data:
