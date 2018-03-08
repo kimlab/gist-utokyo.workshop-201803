@@ -3,6 +3,7 @@
 ## Where & When 	
   > 2018-03-14 11:00 - 18:00 <br />
   > GIST Seoul Office, #1503 Gangnam Bldg, 396, Seocho-daero, Seoul, South Korea [**# Google Map #**](https://goo.gl/maps/EqFeJZRTqbn)
+  > _Organized by Jin-Ho Yoon (GIST) and Hyungjun Kim (U-Tokyo)_
 
 ## Sessions 
 
@@ -28,7 +29,6 @@
 ### Session 5 /17:30 - 18:00/
   > **General Discussion**
 
-  > _Organized by Jin-Ho Yoon (GIST) and Hyungjun Kim (U-Tokyo)_
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTg5NzExNzI5XX0=
 -->
