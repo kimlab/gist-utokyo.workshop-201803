@@ -12,6 +12,7 @@
   > **Ryotaro Doi**    &nbsp;&nbsp;_Evaluation of Multi-model Skills on Global Temperature and Precipitation using Climate Simulations_<br />
   > **Hyungjun Kim**   &nbsp;&nbsp;_Interlinked Impact of Tropical Pacific and Atlantic Ocean on Amazon Drought_
 
+-------------------|---------------------------------------------------------------------------------------------------
 **Masahito Omori** | _Impacts of Renewable Energy Development on Global Climate Variability_
 **Ryotaro Doi**    | _Evaluation of Multi-model Skills on Global Temperature and Precipitation using Climate Simulations_
 **Hyungjun Kim**   | _Interlinked Impact of Tropical Pacific and Atlantic Ocean on Amazon Drought_
