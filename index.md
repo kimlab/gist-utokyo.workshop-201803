@@ -8,9 +8,9 @@
 
 **Session 1** /11:00 - 12:30/
 
-  > **Masahito Omori** &npsp;&nbsp;_Impacts of Renewable Energy Development on Global Climate Variability_<br />
-  > **Ryotaro Doi**    &npsp;&nbsp;_Evaluation of Multi-model Skills on Global Temperature and Precipitation using Climate Simulations_<br />
-  > **Hyungjun Kim**   &npsp;&nbsp;_Interlinked Impact of Tropical Pacific and Atlantic Ocean on Amazon Drought_
+  > **Masahito Omori** &nbsp;&nbsp;_Impacts of Renewable Energy Development on Global Climate Variability_<br />
+  > **Ryotaro Doi**    &nbsp;&nbsp;_Evaluation of Multi-model Skills on Global Temperature and Precipitation using Climate Simulations_<br />
+  > **Hyungjun Kim**   &nbsp;&nbsp;_Interlinked Impact of Tropical Pacific and Atlantic Ocean on Amazon Drought_
 
 **Session 2** /12:30 - 14:00/	
   > **Luncheon Exchange**
