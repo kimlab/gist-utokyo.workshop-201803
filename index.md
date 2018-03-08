@@ -1,7 +1,7 @@
 # GIST-UTokyo Joint Workshop on Climate Extremes
 
 ## Where & When 	
-2018-03-14 @ GIST Seoul Office
+2018-03-14 @ GIST Seoul Office, #1503 Gangnam Bldg, 396, Seocho-daero, Seoul, South Korea [Google Map](https://goo.gl/maps/EqFeJZRTqbn)
 
 ## Sessions 
 
@@ -29,10 +29,6 @@
   > <br />
 
 --------------------------------------------------------------
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.429403240839!2d127.02578793677131!3d37.49778931508131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca15b9cf43289%3A0xc22bf9d1990153c4!2s396+Seocho-daero%2C+Seocho-gu%2C+Seoul%2C+South+Korea!5e0!3m2!1sen!2sjp!4v1520543510818" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
---------------------------------------------------------------
-{% gmap <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.429403240839!2d127.02578793677131!3d37.49778931508131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca15b9cf43289%3A0xc22bf9d1990153c4!2s396+Seocho-daero%2C+Seocho-gu%2C+Seoul%2C+South+Korea!5e0!3m2!1sen!2sjp!4v1520543510818" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> %}
-{% gmap https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.429403240839!2d127.02578793677131!3d37.49778931508131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca15b9cf43289%3A0xc22bf9d1990153c4!2s396+Seocho-daero%2C+Seocho-gu%2C+Seoul%2C+South+Korea!5e0!3m2!1sen!2sjp!4v1520543510818" %}
 __Organized by Jin-Ho Yoon (GIST) and Hyungjun Kim (U-Tokyo)__
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTg5NzExNzI5XX0=
