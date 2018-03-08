@@ -8,12 +8,16 @@
 **Session 1** /11:00 - 12:30/
 
   > Masahito Omori      _Impacts of Renewable Energy Development on Global Climate Variability_<br />
-  > Ryotaro Doi 	_Evaluation of Multi-model Skills on Global Temperature and Precipitation using Climate Simulations_
+  > Ryotaro Doi 	_Evaluation of Multi-model Skills on Global Temperature and Precipitation using Climate Simulations_<br />
+  > Hyungjun Kim 	_Interlinked Impact of Tropical Pacific and Atlantic Ocean on Amazon Drought_
 
 **_________** /12:30 - 14:00/	Luncheon Exchange
+
 **Session 2** /14:00 - 15:30/
-**Session 3** /16:00 - 17:30/	Session 3
-**Session 4** /17:30 - 18:00/	Discussion
+
+**Session 3** /16:00 - 17:30/	
+
+**Session 4** /17:30 - 18:00/	General Discussion
 
 #### Organized by Jin-Ho Yoon (GIST) and Hyungjun Kim (U-Tokyo)
 <!--stackedit_data:
