@@ -6,7 +6,7 @@
 
 ## Sessions 
 
-#### **Session 1** /11:00 - 12:30/
+### Session 1 /11:00 - 12:30/
 
   > **Masahito Omori** &nbsp;&nbsp;_Impacts of Renewable Energy Development on Global Climate Variability_<br />
   > **Ryotaro Doi**    &nbsp;&nbsp;_Evaluation of Multi-model Skills on Global Temperature and Precipitation using Climate Simulations_<br />
