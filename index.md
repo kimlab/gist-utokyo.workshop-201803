@@ -4,7 +4,7 @@
 2018-03-14 @ GIST Seoul Office
 
 ## Sessions 
-1. 11:00 - 12:30	Session 1
+** Session 1 ** 11:00 - 12:30	Session 1
 	> **Masahito Omori** "Photovoltaic ..."
 
 	**Ryotaro Doi** "Model Evaluation ..."
