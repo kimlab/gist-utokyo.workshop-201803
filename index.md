@@ -5,10 +5,9 @@
 
 ## Sessions 
 
-** Session 1 **
-11:00 - 12:30 
+**Session 1** /11:00 - 12:30/
 
-  > Masahito Omori 	_Impacts of Renewable Energy Development on Global Climate Variability_<br />
+  > Masahito Omori      _Impacts of Renewable Energy Development on Global Climate Variability_<br />
   > Ryotaro Doi 	_Evaluation of Multi-model Skills on Global Temperature and Precipitation using Climate Simulations_
 2. 12:30 - 14:00 	Lunch
 3. 14:00 - 15:30 	Session 2
