@@ -2,17 +2,18 @@
 
 ## Where & When 	
   * 2018-03-14 11:00 - 18:00 
-  * GIST Seoul Office, #1503 Gangnam Bldg, 396, Seocho-daero, Seoul, South Korea [**# Google Map**](https://goo.gl/maps/EqFeJZRTqbn)
+  * GIST Seoul Office, #1503 Gangnam Bldg, 396, Seocho-daero, Seoul, South Korea [**# Google Map #**](https://goo.gl/maps/EqFeJZRTqbn)
 
 ## Sessions 
 
 **Session 1** /11:00 - 12:30/
 
-  > Masahito Omori      _Impacts of Renewable Energy Development on Global Climate Variability_<br />
-  > Ryotaro Doi 	_Evaluation of Multi-model Skills on Global Temperature and Precipitation using Climate Simulations_<br />
-  > Hyungjun Kim 	_Interlinked Impact of Tropical Pacific and Atlantic Ocean on Amazon Drought_
+  > **Masahito Omori**	_Impacts of Renewable Energy Development on Global Climate Variability_<br />
+  > **Ryotaro Doi** 	_Evaluation of Multi-model Skills on Global Temperature and Precipitation using Climate Simulations_<br />
+  > **Hyungjun Kim** 	_Interlinked Impact of Tropical Pacific and Atlantic Ocean on Amazon Drought_
 
-**Session 2** /12:30 - 14:00/	Luncheon Exchange
+**Session 2** /12:30 - 14:00/	
+  > Luncheon Exchange
 
 **Session 3** /14:00 - 15:30/
   > <br />
