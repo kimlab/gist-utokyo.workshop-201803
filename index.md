@@ -25,10 +25,8 @@
   > <br />
   > <br />
 
-### Session 5 /17:30 - 18:00/	General Discussion
-  > <br />
-  > <br />
-  > <br />
+### Session 5 /17:30 - 18:00/
+  > **General Discussion**
 
 --------------------------------------------------------------
 __Organized by Jin-Ho Yoon (GIST) and Hyungjun Kim (U-Tokyo)__
