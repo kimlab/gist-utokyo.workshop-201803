@@ -1,7 +1,8 @@
 # GIST-UTokyo Joint Workshop on Climate Extremes
 
 ## Where & When 	
-2018-03-14 @ GIST Seoul Office, #1503 Gangnam Bldg, 396, Seocho-daero, Seoul, South Korea [Google Map](https://goo.gl/maps/EqFeJZRTqbn)
+  * 2018-03-14 11:00 - 18:00 
+  * GIST Seoul Office, #1503 Gangnam Bldg, 396, Seocho-daero, Seoul, South Korea [**# Google Map**](https://goo.gl/maps/EqFeJZRTqbn)
 
 ## Sessions 
 
