@@ -17,14 +17,12 @@
   > **Luncheon Exchange**
 
 ### Session 3 /14:00 - 15:30/
-  > <br />
-  > <br />
-  > <br />
- 
+  > **Dasom Lee**      &nbsp;&nbsp;_Long-term change of stability over Korea_<br />
+  > **Rackhun Son**    &nbsp;&nbsp;_Early 2017 flood in Peru_<br />
+
 ### Session 4 /16:00 - 17:30/	
-  > <br />
-  > <br />
-  > <br />
+  > **Heeyang Cho**    &nbsp;&nbsp;_Long-term change of floods and droughts in Mongolia_<br />
+  > **Minkyung Kim**   &nbsp;&nbsp;_Covariability of surface temperature and stationary wave patterns over East Asia_<br />
 
 ### Session 5 /17:30 - 18:00/
   > **General Discussion**
