@@ -13,7 +13,7 @@
 ### Session 1 /11:10 - 12:40/
   > **Masahito Omori** &nbsp;&nbsp;_Impacts of Renewable Energy Development on Global Climate Variability_<br />
   > **Ryotaro Doi**    &nbsp;&nbsp;_Evaluation of Multi-model Skills on Global Temperature and Precipitation using Climate Simulations_<br />
-  > **Jin-Ho Yoon**    &nbsp;&nbsp;_TBD_<br />
+  > **Jin-Ho Yoon**    &nbsp;&nbsp;_Can we blame ‘the global warming’ for devastating impact of the Hurricane Harvey?_<br />
 
 ### Session 2 /12:40 - 14:10/	
   > **Luncheon Exchange**
